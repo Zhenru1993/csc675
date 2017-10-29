@@ -9,4 +9,4 @@ http://rogerdudler.github.io/git-guide/
 
 *NOTE:
 NEVER modify "master" branch, 
-Please create own branches and then merge into master then
+Please create own branches and then merge into "master".
