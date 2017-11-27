@@ -1,3 +1,6 @@
+/* Use bookstore database*/
+use bookstore;
+
 /*insect data into author table*/
 INSERT INTO `bookstore`.`author` (`author_id`, `author_name`, `author_birth`) VALUES ('001', 'Pete Souza', '2001-01-01');
 INSERT INTO `bookstore`.`author` (`author_id`, `author_name`, `author_birth`) VALUES ('002', 'Ray Dalio', '2002-02-02');
