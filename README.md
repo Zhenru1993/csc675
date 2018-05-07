@@ -12,7 +12,3 @@ NEVER modify "master" branch,
 Please create own branches and then merge into "master".
 
 
-number in our team: Shenliang Wang 
-                    Bo Li
-                    Zhenru Huang
-                    
